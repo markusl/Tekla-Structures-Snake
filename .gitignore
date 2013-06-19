@@ -87,6 +87,7 @@ csx
 
 # Windows Store app package directory
 AppPackages/
+Thumbs.db
 
 # Others
 [Bb]in
