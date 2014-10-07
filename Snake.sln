@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Snake", "Snake\Snake.fsproj", "{03C2BA8A-AD21-45B7-80A2-6A2AB08DA2F4}"
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SnakeWindow", "SnakeWindow\SnakeWindow.fsproj", "{06FA41FE-938C-475F-BA62-1C7A90D4AC25}"
