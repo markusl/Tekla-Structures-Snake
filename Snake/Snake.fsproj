@@ -19,7 +19,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <Tailcalls>false</Tailcalls>
-    <OutputPath>C:\Program Files\Tekla Structures\19.0\nt\bin\plugins\Tekla\Model\</OutputPath>
+    <OutputPath>C:\Program Files\Tekla Structures\21.0\nt\bin\plugins\Tekla\Model\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <WarningLevel>3</WarningLevel>
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -31,7 +31,7 @@
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <Tailcalls>true</Tailcalls>
-    <OutputPath>C:\Program Files\Tekla Structures\19.0\nt\bin\plugins\Tekla\Model\</OutputPath>
+    <OutputPath>C:\Program Files\Tekla Structures\21.0\nt\bin\plugins\Tekla\Model\</OutputPath>
     <DefineConstants>TRACE</DefineConstants>
     <WarningLevel>3</WarningLevel>
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -52,13 +52,13 @@
     <Reference Include="System.Drawing" />
     <Reference Include="System.Numerics" />
     <Reference Include="System.Xaml" />
-    <Reference Include="Tekla.Structures, Version=19.0.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114">
-      <HintPath>..\..\..\..\..\..\..\Program Files\Tekla Structures\19.0\nt\bin\plugins\Tekla.Structures.dll</HintPath>
+    <Reference Include="Tekla.Structures, Version=21.0.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114">
+      <HintPath>..\..\..\..\..\..\..\Program Files\Tekla Structures\21.0\nt\bin\plugins\Tekla.Structures.dll</HintPath>
       <SpecificVersion>False</SpecificVersion>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Tekla.Structures.Model, Version=19.0.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114">
-      <HintPath>..\..\..\..\..\..\..\Program Files\Tekla Structures\19.0\nt\bin\plugins\Tekla.Structures.Model.dll</HintPath>
+    <Reference Include="Tekla.Structures.Model, Version=21.0.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114">
+      <HintPath>..\..\..\..\..\..\..\Program Files\Tekla Structures\21.0\nt\bin\plugins\Tekla.Structures.Model.dll</HintPath>
       <SpecificVersion>False</SpecificVersion>
     </Reference>
     <Reference Include="Tekla.Structures.Plugins">

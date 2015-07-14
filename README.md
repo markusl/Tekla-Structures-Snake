@@ -14,11 +14,11 @@ Click on the toolbar icon and use your arrow keys to turn the head into another 
 
 How to install Snakes
 -------------
-1.  Build Snake.sln Visual Studio project using Visual Studio 2012
+1.  Build Snake.sln Visual Studio project using Visual Studio 2013
 2.  `Snake.dll` and `FSharp.Core.dll` build to the plugins directory.
 
-Tekla Structures log will notify you that Plug-in Play Snakes in `C:\Program Files\Tekla Structures\19.0\nt\bin\plugins\Tekla\Model` loaded successfully.`
-Note: Tekla Structures 19.0 x64 is the default output directory. For other versions of Tekla Structures, you need to change the references in build settings.
+Tekla Structures log will notify you that Plug-in Play Snakes in `C:\Program Files\Tekla Structures\21.0\nt\bin\plugins\Tekla\Model` loaded successfully.`
+Note: Tekla Structures 21.0 x64 is the default output directory. For other versions of Tekla Structures, you need to change the references in build settings.
 
 Configuring Snakes in Tekla Structures toolbar
 -------------
